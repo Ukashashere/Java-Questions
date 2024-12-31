@@ -25,6 +25,6 @@ int f(int n){
     return f(n - 1) + f(n - 1);
 }
 
-Normal Code ☝️
-Actually hava to write like ☝️☝️☝️
+Normal Code ^_^
+Actually hava to write like ^_^^_^
 */
